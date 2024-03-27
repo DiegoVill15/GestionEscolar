@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gestion Escolar</string>
+
+    <string name="txt_matricula">Matricula</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_carrera">Carrera</string>
+    <string name="txt_InicioFin">Periodo del semestre</string>
+    <string name="txt_NoMaterias">Numero de materias activas</string>
+    <string name="BotonRegistrar">Registrar</string>
+    <string name="BotonBuscar">Buscar</string>
+    <string name="BotonModificar">Modificar</string>
+    <string name="BotonEliminar">Eliminar</string>
+    <string name="BotonRegresarMenu">Regresar al Menu</string>
+
+    <string name="txt_idmateria">id_materia</string>
+    <string name="txt_nombremat">Nombre de la materia</string>
+    <string name="txt_carreramat">Carrera a la que pertenece</string>
+    <string name="txt_semestremat">Semestre al que pertenece</string>
+    <string name="BotonRegistrarMat">Registrar</string>
+    <string name="BotonBuscarMat">Buscar</string>
+    <string name="BotonModificarMat">Modificar</string>
+    <string name="BotonEliminarMat">Eliminar</string>
+    <string name="BotonRegresarMenuMat">Regresar al Menu</string>
+
+
+    <string name="BotonAlumnos">Alumnos</string>
+    <string name="BotonMaterias">Materias</string>
+</resources>
